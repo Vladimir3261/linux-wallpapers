@@ -33,5 +33,14 @@ copy or move file img.upd.desktop to ~/.config/autostart directory
 
 ``cp img.upd.desktop ~/.config/autostart``
 
+As default this script load images from yandex images (image of day)
 
+
+also you can load images from bing just type command:
+
+
+``desktop-updater bing 1``
+
+
+1 - is index of image in bing images
 ##Tested on GNOME Shell 3.20.3
