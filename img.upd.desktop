@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Desktop-updater
+NoDisplay=false
+Comment=image updater autostart
+Exec=sh /usr/local/bin/desktop-updater
+Terminal=false
