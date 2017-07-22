@@ -1,4 +1,6 @@
 # Set current display
+# This is old version of current script
+# And doesn't used in bash only version.
 DISPLAY=:0
 # get gmone-shell pid
 PID=$(pgrep -o gnome-shell -u $USER)
