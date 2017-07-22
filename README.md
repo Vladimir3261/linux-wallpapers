@@ -32,4 +32,6 @@ copy or move file img.upd.desktop to ~/.config/autostart directory
 
 
 ``cp img.upd.desktop ~/.config/autostart``
+
+
 ##Tested on GNOME Shell 3.20.3
