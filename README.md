@@ -44,3 +44,4 @@ also you can load images from bing just type command:
 
 1 - is index of image in bing images
 ##Tested on GNOME Shell 3.20.3
+UPD: 001
